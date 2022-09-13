@@ -81,7 +81,7 @@ a {
 .leaves-item {
     position: absolute;
     display: block;
-    animation: leaves 45s linear infinite;
+    animation: leaves 65s linear infinite;
 }
 
 .leaves-item:nth-child(1) {
